@@ -156,9 +156,11 @@ void assert_failed(uint8_t *file, uint32_t line)
 ```
 
 ## Output  :
- ![out](img123.jpeg)
- 
- 
+### LED IN ON CONDITION
+![out](img00.png)
+
+### LED IN OFF CONDITION
+![out](img000.png)
  
 ## Result :
 Interfacing a digital output with ARM microcontroller is executed and the results are verified.
