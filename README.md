@@ -79,6 +79,7 @@ The main features of LPC2148 include the following.
 Name : Shyam Kumar A
 Reg No : 212221230098
 ```
+```
 #include "main.h"
 void SystemClock_Config(void);
 static void MX_GPIO_Init(void);
@@ -152,7 +153,7 @@ void assert_failed(uint8_t *file, uint32_t line)
 	
 }
 #endif 
-
+```
 
 ## Output  :
  
